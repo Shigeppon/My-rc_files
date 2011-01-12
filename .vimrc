@@ -56,7 +56,7 @@ set smarttab
 "ファイル内の  が対応する空白の数
 set tabstop=2
 "カーソルを行頭、行末で止まらないようにする
-set whichwrap=b,s,h,l,<,>,[,]
+"set whichwrap=b,s,h,l,<,>,[,]
 "検索をファイルの先頭へループしない
 "set nowrapscan
 "縦幅
